@@ -1,0 +1,15 @@
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA24\Ejercicio1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
